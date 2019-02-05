@@ -1,4 +1,4 @@
-"""This is supposed to be a branch erviwsion"""
+"""This is supposed tlaishjdaojsdaöojsdalösdjaslöjlajsdljaösdjaöjd"""
 
 """Script to gather news outlet IP's and return highest ranking of countries mentioned."""
 from bs4 import BeautifulSoup
