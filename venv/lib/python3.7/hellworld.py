@@ -1,6 +1,6 @@
 
 
-"""Script to gather news outlet IP's and return highest ranking of countries mentioned.2"""
+"""Script to gather news outlet IP's and return highest ranking of countries mentioned."""
 from bs4 import BeautifulSoup
 import requests
 #Counter helps count the amount of times something was mentioned
