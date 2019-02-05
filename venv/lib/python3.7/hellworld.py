@@ -1,4 +1,4 @@
-
+"""This is supposed to be a branch"""
 
 """Script to gather news outlet IP's and return highest ranking of countries mentioned."""
 from bs4 import BeautifulSoup
@@ -37,7 +37,8 @@ f.writerow(['Country', 'Count', 'Website'])
 
 f.writerow([country_keys, count_vals, website])
 
-######teeeeeeeest
+
+
 
 #path = 'path/to/a/csvfile'
 #r is used for only reading(opening) the file
